@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 We're currently working on of the fairness assessment tool FixOut. 
+- 🔭 We're currently working on of the fairness assessment tool [`FixOut`](https://github.com/fixouttech/fixout). 
 - 👯 We're looking to collaborate with data scientists and machine learning practitioners who face (or are aware of) fairness issues.
 - 💬 Ask us about **algorithmic fairness** and **explainability** in machine/deep learning!
 <!-- * ⚡ Fun fact: ... -->
