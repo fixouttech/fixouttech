@@ -1,10 +1,9 @@
 ## Hi there 👋
 
-- 🔭 We're currently working on ...
-- 👯 We're looking to collaborate on ...
-- 🤔 We're looking for help with ...
+- 🔭 We're currently working on of the fairness assessment tool FixOut. 
+- 👯 We're looking to collaborate with data scientists and machine learning practitioners who face (or are aware of) fairness issues.
 - 💬 Ask us about **algorithmic fairness** and **explainability** in machine/deep learning!
-- ⚡ Fun fact: ...
+<!-- * ⚡ Fun fact: ... -->
 
 - 📫 How to reach us and/or collaborate with us: 
   * <a href="https://groups.google.com/g/fixout" target="_blank" rel="noopener noreferrer">Community</a>
