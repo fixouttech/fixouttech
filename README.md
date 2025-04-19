@@ -4,7 +4,7 @@
 ### Hi there 👋
 
 - 🔭 We're currently working on of the fairness assessment tool [`FixOut`](https://github.com/fixouttech/fixout). 
-- 👯 We're looking to collaborate with **data scientists** and **ML/DL practitioners** who face (or are aware of) *fairness* issues.
+- 👯 We're looking to collaborate with **data scientists** and **ML/DL practitioners** who face (or are interested in) *fairness* issues.
 - 📫 How to reach us and/or collaborate with us: 
   * <a href="https://groups.google.com/g/fixout" target="_blank" rel="noopener noreferrer">Community</a>
   * <a href="https://fixout.bsky.social" target="_blank" rel="noopener noreferrer">Bluesky</a>
