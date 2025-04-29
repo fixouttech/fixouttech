@@ -1,7 +1,7 @@
 ## <a href="https://fixout.fr"><img alt="fixout_logo" src="fixout_grey.png" width="130"></a>
 
 
-### Welcome to FixOut 👋
+### Welcome 👋
 
 - 🔭 We're currently working on of the fairness assessment tool [`FixOut`](https://github.com/fixouttech/fixout). 
 - 👯 We're looking to collaborate with **data scientists** and **ML/DL practitioners** who face (or are interested in) *fairness* issues.
